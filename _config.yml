@@ -111,8 +111,7 @@ navigation:
 # ==============================================
 # ⚫ 第五部分：高级配置（完全不需要修改）
 # ==============================================
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default" # 主题颜色，可选：default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+remote_theme: "academicpages/academicpages.github.io"
 search: false # 是否开启搜索功能
 search_full_content: false
 search_provider: lunr
