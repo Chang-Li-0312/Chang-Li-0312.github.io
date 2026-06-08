@@ -5,7 +5,7 @@ locale                   : "en-US" # 网站语言，中文用zh-CN，英文用en
 title                    : "Li" # 浏览器标签页显示的标题
 title_separator          : "-"
 name                     : &name "Chang Li" # 例如：张三 San Zhang
-description              : &description "A Master’s student in the Department of Mathematics at Shanghai University. My research focuses on multilinear harmonic analysis and weighted Fourier inequalities." # 搜索引擎显示的描述
+description              : &description "A Master's student in the Department of Mathematics at Shanghai University. My research focuses on multilinear harmonic analysis and weighted Fourier inequalities." # 搜索引擎显示的描述
 url                      : "https://Chang-Li-0312.github.io" # ⚠️必须修改！你的完整网站地址
 baseurl                  : "" # ⚠️必须留空！绝对不要填任何东西
 repository               : "Chang-Li-0312/Chang-Li-0312.github.io" # ⚠️必须修改！你的仓库地址
@@ -21,7 +21,7 @@ words_per_minute         : 200
 author:
   name             : "Chang Li" # 例如：张三 San Zhang
   avatar           : "/me2024.jpg" # 头像路径，上传到images文件夹
-  bio              : "Master’s student in the Department of Mathematics at Shanghai University, supervised by Professor Fayou Zhao." # 侧边栏显示的简介，支持HTML换行
+  bio              : "Master's student in the Department of Mathematics at Shanghai University, supervised by Professor Fayou Zhao." # 侧边栏显示的简介，支持HTML换行
   location         : "Shanghai China"
   employer         : "Shanghai University"
   email            : "changli@shu.edu.cn" # 你的学校邮箱
