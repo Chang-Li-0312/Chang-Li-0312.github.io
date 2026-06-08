@@ -7,9 +7,41 @@ author_profile: true
 
 ## Academic Conferences & Life
 <div class="gallery-grid">
+
+
 <div class="gallery-item">
-    <a href=" " target="_blank">
-      <img src="/images/3.jpg" alt="2025 NCMC Summer Camp, JSNU, II, 230730" loading="lazy">
+    <a href="/images/14.jpg" target="_blank">
+      <img src="/images/14.jpg" alt="With my family, 2011" loading="lazy">
+    </a >
+    <div class="gallery-caption">With my family, 2011</div>
+  </div>
+  <div class="gallery-item">
+    <a href="/images/15.jpg" target="_blank">
+      <img src="/images/15.jpg" alt="With my family, 2016" loading="lazy">
+    </a >
+    <div class="gallery-caption">With my family, 2016</div>
+  </div>
+<div class="gallery-item">
+    <a href="/images/16.jpg" target="_blank">
+      <img src="/images/16.jpg" alt="With my family, 2017" loading="lazy">
+    </a >
+    <div class="gallery-caption">With my family, 2017</div>
+  </div>
+<div class="gallery-item">
+    <a href="/images/17.jpg" target="_blank">
+      <img src="/images/17.jpg" alt="With my family, 2020" loading="lazy">
+    </a >
+    <div class="gallery-caption">With my family, 2020</div>
+  </div>
+  <div class="gallery-item">
+    <a href="/images/18.jpg" target="_blank">
+      <img src="/images/18.jpg" alt="With my family, 2021" loading="lazy">
+    </a >
+    <div class="gallery-caption">With my family, 2021</div>
+  </div>
+<div class="gallery-item">
+    <a href="/images/3.jpg" target="_blank">
+      <img src="/images/3.jpg" alt="2025 NCMC Summer Camp, JSNU, I, 230730" loading="lazy">
     </a >
     <div class="gallery-caption">2023 NCMC Summer Camp, JSNU, I, 230730</div>
   </div>
@@ -79,12 +111,17 @@ author_profile: true
     </a >
     <div class="gallery-caption">Research group with Professor Yongsheng Han after his talk, SHU, 251216</div>
   </div>
-
+ <div class="gallery-item">
+    <a href="/images/19.jpg" target="_blank">
+      <img src="/images/19.jpg" alt="With my girlfriend Nan Lei, SHU, 260601" loading="lazy">
+    </a >
+    <div class="gallery-caption">With my girlfriend Nan Lei, SHU, 260601</div>
+  </div>
   <div class="gallery-item">
     <a href="/images/11.jpg" target="_blank">
       <img src="/images/11.jpg" alt="With Professor Yongsheng Han, SHU, 260604" loading="lazy">
     </a >
-    <div class="gallery-caption">With Professor Yongsheng Han, SHU, 260605</div>
+    <div class="gallery-caption">With Professor Yongsheng Han, SHU, 260604</div>
   </div>
 
   <div class="gallery-item">
