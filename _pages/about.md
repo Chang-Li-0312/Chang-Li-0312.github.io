@@ -7,7 +7,7 @@ title: "About Me"
 
 ## Introduction
 
-I am a Master's student in the Department of Mathematics at Shanghai University, supervised by Professor Fayou Zhao. My research focuses on multilinear harmonic analysis and weighted Fourier inequalities.
+I am a graduate student in the Department of Mathematics at Shanghai University, supervised by Professor Fayou Zhao. My research focuses on multilinear harmonic analysis and weighted Fourier inequalities.
 
 ## Research Interests
 
@@ -20,10 +20,10 @@ My research spans the following areas:
 
 - **Shanghai University** | M.S. in Mathematics | 2025-Present
   - Advisor: Prof. Fayou Zhao
-  - Research Direction: Multilinear harmonic analysis and partial differential equations
+  - Research Direction: Multilinear harmonic analysis and weighted Fourier inequities
 
 - **Shandong University of Technology** | B.S. in Mathematics | 2021-2025
-  - Bachelor's Thesis: *Operations and Properties of Generalized Functions*
+  - Bachelor Thesis: *Operations and Properties of Generalized Functions*
 
 ## Contact
 
