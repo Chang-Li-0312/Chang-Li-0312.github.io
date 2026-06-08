@@ -2,34 +2,33 @@
 layout: single
 author_profile: true
 permalink: /
-title: "关于我"
+title: "About Me"
 ---
 
-## 个人简介
+## Introduction
 
-我是上海大学数学系硕士研究生，师从赵发友教授。我的研究方向为多线性调和分析及加权傅立叶不等式。
+I am a Master's student in the Department of Mathematics at Shanghai University, supervised by Professor Fayou Zhao. My research focuses on multilinear harmonic analysis and weighted Fourier inequalities.
 
-## 研究兴趣
+## Research Interests
 
-我的研究主要集中在以下几个领域：
+My research spans the following areas:
 
 - **Multi-parameter harmonic analysis**: Singular integrals, function spaces, duality and interpolation with respect to flag-type, product-type and Zygmund dilation structures
-- **Weighted Fourier inequalities**：Sharp estimates on Lebesgue, Lorentz and Morrey spaces
+- **Weighted Fourier inequalities**: Sharp estimates on Lebesgue, Lorentz and Morrey spaces
 
-## 教育背景
+## Education
 
-- **上海大学** 数学系 硕士研究生 2025-
-  - 导师：赵发友 教授
-  - 研究方向：多线性调和分析与偏微分方程
+- **Shanghai University** | M.S. in Mathematics | 2025-Present
+  - Advisor: Prof. Fayou Zhao
+  - Research Direction: Multilinear harmonic analysis and partial differential equations
 
-- **山东理工大学** 数学系 学士 2021-2025
-  - 毕业论文：《广义函数的运算及性质》
+- **Shandong University of Technology** | B.S. in Mathematics | 2021-2025
+  - Bachelor's Thesis: *Operations and Properties of Generalized Functions*
 
-## 联系方式
+## Contact
 
-- 邮箱：`changli@shu.edu.cn`
+- Email: `changli@shu.edu.cn`
 
-- GitHub：[https://github.com/Chang-Li-0312](https://github.com/Chang-Li-0312)
+- GitHub: [Chang-Li-0312](https://github.com/Chang-Li-0312)
 
-- arXiv：[https://arxiv.org/a/ChangLi#1](https://arxiv.org/a/ChangLi#1)
-
+- arXiv: [Chang Li](https://arxiv.org/a/ChangLi.1.html)
