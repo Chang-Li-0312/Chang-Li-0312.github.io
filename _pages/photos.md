@@ -8,8 +8,8 @@ author_profile: true
 
 <div class="gallery-grid">
   <div class="gallery-item">
-    <a href="/iamges/1.jpg" target="_blank">
-      < img src="/iamges/1.jpg" alt="With Professor Hongwei Lou, 2025 NCMC Summer Camp, JSNU, Jiangsu." loading="lazy">
+    <a href="/images/1.jpg" target="_blank">
+      < img src="/images/1.jpg" alt="With Professor Hongwei Lou, 2025 NCMC Summer Camp, JSNU, Jiangsu." loading="lazy">
     </a >
     <div class="gallery-caption">With Professor Hongwei Lou, 2025 NCMC Summer Camp, JSNU, Jiangsu.</div>
   </div>
