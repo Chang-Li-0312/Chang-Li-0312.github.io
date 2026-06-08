@@ -24,8 +24,8 @@ main:
 #    url: /year-archive/
   - title: "Photos"  # 新增这一行
     url: /photos/    # 新增这一行   
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
