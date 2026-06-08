@@ -10,10 +10,10 @@ author_profile: true
 <div class="gallery-grid">
   <!-- 照片1 -->
   <div class="gallery-item">
-    <a href="/images/photos/photo1.jpg" target="_blank">
-      <img src="/images/photos/photo1.jpg" alt="上海大学数学系" loading="lazy">
+    <a href="/1.jpg" target="_blank">
+      <img src="/images/photos/photo1.jpg" alt="National College Mathematics Competition (NCMC) Summer Camp, JNU, 1" loading="lazy">
     </a>
-    <div class="gallery-caption">上海大学数学系 2025</div>
+    <div class="gallery-caption"> 2025</div>
   </div>
 
   <!-- 照片2 -->
