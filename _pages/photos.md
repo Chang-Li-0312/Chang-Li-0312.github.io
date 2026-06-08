@@ -8,13 +8,13 @@ author_profile: true
 ## Academic Conferences & Life
 <div class="gallery-item">
     <a href=" " target="_blank">
-      < img src="/images/3.jpg" alt="2025 NCMC Summer Camp, JSNU, II, 230730" loading="lazy">
+      <img src="/images/3.jpg" alt="2025 NCMC Summer Camp, JSNU, II, 230730" loading="lazy">
     </a >
     <div class="gallery-caption">2023 NCMC Summer Camp, JSNU, I, 230730</div>
   </div>
   <div class="gallery-item">
     <a href="/images/2.jpg" target="_blank">
-      < img src="/images/2.jpg" alt="2025 NCMC Summer Camp, JSNU, II, 230730" loading="lazy">
+      <img src="/images/2.jpg" alt="2025 NCMC Summer Camp, JSNU, II, 230730" loading="lazy">
     </a >
     <div class="gallery-caption">2025 NCMC Summer Camp, JSNU, II, 230730</div>
   </div>
