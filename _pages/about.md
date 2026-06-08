@@ -7,7 +7,7 @@ title: "关于我"
 
 ## 个人简介
 
-我是上海大学数学系硕士研究生，师从赵发友教授。我的研究方向为多线性调和分析及其在偏微分方程中的应用。
+我是上海大学数学系硕士研究生，师从赵发友教授。我的研究方向为多线性调和分析及加权傅立叶不等式。
 
 ## 研究兴趣
 
@@ -29,8 +29,7 @@ title: "关于我"
 
 - 邮箱：`changli@shu.edu.cn`
 
-##- GitHub：[https://github.com/你的用户名](https://github.com/你的用户名)
+- GitHub：[https://github.com/Chang-Li-0312](https://github.com/Chang-Li-0312)
 
 - arXiv：[https://arxiv.org/a/ChangLi](https://arxiv.org/a/ChangLi)
 
-##- Google Scholar：[你的Google Scholar链接]
