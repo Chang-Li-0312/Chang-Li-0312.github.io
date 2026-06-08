@@ -117,12 +117,7 @@ author_profile: true
     </a >
     <div class="gallery-caption">With my girlfriend Nan Lei, SHU, 260601</div>
   </div>
-  <div class="gallery-item">
-    <a href="/images/11.jpg" target="_blank">
-      <img src="/images/11.jpg" alt="With Professor Yongsheng Han, SHU, 260604" loading="lazy">
-    </a >
-    <div class="gallery-caption">With Professor Yongsheng Han, SHU, 260604</div>
-  </div>
+
 
   <div class="gallery-item">
     <a href="/images/13.jpg" target="_blank">
@@ -130,6 +125,14 @@ author_profile: true
     </a >
     <div class="gallery-caption">Research group with Professor Yongsheng Han after his talk, SHU, 260604</div>
   </div>
+  
+  <div class="gallery-item">
+    <a href="/images/11.jpg" target="_blank">
+      <img src="/images/11.jpg" alt="With Professor Yongsheng Han, SHU, 260604" loading="lazy">
+    </a >
+    <div class="gallery-caption">With Professor Yongsheng Han, SHU, 260604</div>
+  </div>
+
 
   <div class="gallery-item">
     <a href="/images/12.jpg" target="_blank">
