@@ -88,15 +88,15 @@ author_profile: true
   </div>
 
   <div class="gallery-item">
-    <a href="/images/12.jpg" target="_blank">
-      <img src="/images/12.jpg" alt="Research group with Professor Yongsheng Han after his talk, SHU, 260604" loading="lazy">
+    <a href="/images/13.jpg" target="_blank">
+      <img src="/images/13.jpg" alt="Research group with Professor Yongsheng Han after his talk, SHU, 260604" loading="lazy">
     </a >
     <div class="gallery-caption">Research group with Professor Yongsheng Han after his talk, SHU, 260604</div>
   </div>
 
   <div class="gallery-item">
-    <a href="/images/13.jpg" target="_blank">
-      <img src="/images/13.jpg" alt="Research group discussion with Professor Yongsheng Han, SHU, 260605" loading="lazy">
+    <a href="/images/12.jpg" target="_blank">
+      <img src="/images/12.jpg" alt="Research group discussion with Professor Yongsheng Han, SHU, 260605" loading="lazy">
     </a >
     <div class="gallery-caption">Research group discussion with Professor Yongsheng Han, SHU, 260605</div>
   </div>
