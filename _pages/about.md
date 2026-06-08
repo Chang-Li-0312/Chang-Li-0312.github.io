@@ -13,8 +13,8 @@ title: "关于我"
 
 我的研究主要集中在以下几个领域：
 
-- **Multi-parameter harmonic analysis**：Singual integral, Function spaces, Duality, interpolation associated with Flag type, product type, Zygmund dilation type structures
-- **Weighted Fourier Inequalities**：Weighted Fourier Inequalities on Lebesgue, Lorentz, Morrey spaces.
+- **Multi-parameter harmonic analysis**: Singular integrals, function spaces, duality and interpolation with respect to flag-type, product-type and Zygmund dilation structures
+- **Weighted Fourier inequalities**：Sharp estimates on Lebesgue, Lorentz and Morrey spaces
 
 ## 教育背景
 
@@ -28,6 +28,9 @@ title: "关于我"
 ## 联系方式
 
 - 邮箱：`changli@shu.edu.cn`
-#- GitHub：[https://github.com/你的用户名](https://github.com/你的用户名)
+
+##- GitHub：[https://github.com/你的用户名](https://github.com/你的用户名)
+
 - arXiv：[https://arxiv.org/a/ChangLi](https://arxiv.org/a/ChangLi)
-#- Google Scholar：[你的Google Scholar链接]
+
+##- Google Scholar：[你的Google Scholar链接]
