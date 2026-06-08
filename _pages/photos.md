@@ -5,13 +5,11 @@ permalink: /photos/
 author_profile: true
 ---
 
-## 学术报告 & 生活记录
-
 <div class="gallery-grid">
   <!-- 照片1 -->
   <div class="gallery-item">
     <a href="/1.jpg" target="_blank">
-      <img src="/images/photos/photo1.jpg" alt="National College Mathematics Competition (NCMC) Summer Camp, JNU, 1" loading="lazy">
+      <img src="/1.jpg" alt="National College Mathematics Competition (NCMC) Summer Camp, JNU, 1" loading="lazy">
     </a>
     <div class="gallery-caption"> 2025</div>
   </div>
