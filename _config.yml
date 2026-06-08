@@ -11,7 +11,7 @@ baseurl                  : "" # ⚠️必须留空！绝对不要填任何东西
 repository               : "Chang-Li-0312/Chang-Li-0312.github.io" # ⚠️必须修改！你的仓库地址
 
 # 网站缩略图（分享到微信/推特时显示的图片，可选）
-teaser                   : "/images/banner.jpg"
+#teaser                   : "/images/banner.jpg"
 breadcrumbs              : false # 是否显示面包屑导航，学术主页建议关闭
 words_per_minute         : 200
 
