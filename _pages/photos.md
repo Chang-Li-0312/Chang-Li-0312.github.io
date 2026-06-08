@@ -8,14 +8,14 @@ author_profile: true
 
 <div class="gallery-grid">
   <div class="gallery-item">
-    <a href=" " target="_blank">
-      < img src="/1.jpg" alt="With Professor Hongwei Lou, 2025 NCMC Summer Camp, JSNU, Jiangsu." loading="lazy">
+    <a href="/iamges/1.jpg" target="_blank">
+      < img src="/iamges/1.jpg" alt="With Professor Hongwei Lou, 2025 NCMC Summer Camp, JSNU, Jiangsu." loading="lazy">
     </a >
     <div class="gallery-caption">With Professor Hongwei Lou, 2025 NCMC Summer Camp, JSNU, Jiangsu.</div>
   </div>
   <div class="gallery-item">
-    <a href="/2.jpg" target="_blank">
-      < img src="/2.jpg" alt="National College Mathematics Competition (NCMC) Summer Camp, JSNU, Jiangsu, I." loading="lazy">
+    <a href="/iamges/2.jpg" target="_blank">
+      < img src="/iamges/2.jpg" alt="National College Mathematics Competition (NCMC) Summer Camp, JSNU, Jiangsu, I." loading="lazy">
     </a >
     <div class="gallery-caption">National College Mathematics Competition (NCMC) Summer Camp, JSNU, Jiangsu, I.</div>
   </div>
