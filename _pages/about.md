@@ -31,5 +31,5 @@ title: "关于我"
 
 - GitHub：[https://github.com/Chang-Li-0312](https://github.com/Chang-Li-0312)
 
-- arXiv：[https://arxiv.org/a/ChangLi](https://arxiv.org/a/ChangLi)
+- arXiv：[https://arxiv.org/a/ChangLi#1](https://arxiv.org/a/ChangLi#1)
 
