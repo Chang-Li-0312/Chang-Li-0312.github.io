@@ -2,10 +2,10 @@
 # 🔴 第一部分：网站基本设置（这部分必须全部修改！）
 # ==============================================
 locale                   : "zh-CN" # 网站语言，中文用zh-CN，英文用en-US
-title                    : "黎畅 | 上海大学数学系" # 浏览器标签页显示的标题
+title                    : "Li" # 浏览器标签页显示的标题
 title_separator          : "-"
-name                     : &name "黎畅 Chang Li" # 例如：张三 San Zhang
-description              : &description "上海大学数学系硕士研究生，研究方向：多线性调和分析与偏微分方程" # 搜索引擎显示的描述
+name                     : &name "Chang Li" # 例如：张三 San Zhang
+description              : &description "A Master’s student in the Department of Mathematics at Shanghai University. My research focuses on multilinear harmonic analysis and weighted Fourier inequalities." # 搜索引擎显示的描述
 url                      : "https://Chang-Li-0312.github.io" # ⚠️必须修改！你的完整网站地址
 baseurl                  : "" # ⚠️必须留空！绝对不要填任何东西
 repository               : "Chang-Li-0312/Chang-Li-0312.github.io" # ⚠️必须修改！你的仓库地址
@@ -21,9 +21,9 @@ words_per_minute         : 200
 author:
   name             : "Chang Li" # 例如：张三 San Zhang
   avatar           : "/images/profile.jpg" # 头像路径，上传到images文件夹
-  bio              : "上海大学数学系硕士研究生<br>导师：赵发友 教授" # 侧边栏显示的简介，支持HTML换行
-  location         : "上海, 中国"
-  employer         : "上海大学"
+  bio              : "Master’s student in the Department of Mathematics at Shanghai University, supervised by Professor Fayou Zhao." # 侧边栏显示的简介，支持HTML换行
+  location         : "Shanghai China"
+  employer         : "Shanghai University"
   email            : "changli@shu.edu.cn" # 你的学校邮箱
 
   # 学术社交账号（不需要的可以删掉整行）
@@ -97,15 +97,15 @@ defaults:
 # ==============================================
 # 顶部导航栏显示的链接，不需要的可以删掉
 navigation:
-  - title: "关于我"
+  - title: "About me"
     url: /
-  - title: "研究成果"
+  - title: "Publications"
     url: /publications/
-  - title: "教学经历"
-    url: /teaching/
-  - title: "学术报告"
-    url: /talks/
-  - title: "个人简历"
+  #- title: "教学经历"
+  #  url: /teaching/
+  #- title: "学术报告"
+  #  url: /talks/
+  - title: "CV"
     url: /cv/
 
 # ==============================================
