@@ -28,14 +28,14 @@ author_profile: true
     <div class="gallery-caption">With my family, 2017</div>
   </div>
 <div class="gallery-item">
-    <a href="/images/17.jpg" target="_blank">
-      <img src="/images/17.jpg" alt="With my family, 2020" loading="lazy">
+    <a href="/images/18.jpg" target="_blank">
+      <img src="/images/18.jpg" alt="With my family, 2020" loading="lazy">
     </a >
     <div class="gallery-caption">With my family, 2020</div>
   </div>
   <div class="gallery-item">
-    <a href="/images/18.jpg" target="_blank">
-      <img src="/images/18.jpg" alt="With my family, 2021" loading="lazy">
+    <a href="/images/17.jpg" target="_blank">
+      <img src="/images/17.jpg" alt="With my family, 2021" loading="lazy">
     </a >
     <div class="gallery-caption">With my family, 2021</div>
   </div>
