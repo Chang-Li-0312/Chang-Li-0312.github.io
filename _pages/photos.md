@@ -140,4 +140,11 @@ author_profile: true
     </a >
     <div class="gallery-caption">Research group discussion with Professor Yongsheng Han, SHU, 260605</div>
   </div>
+
+  <div class="gallery-item">
+    <a href="/images/20.jpg" target="_blank">
+      <img src="/images/20.jpg" alt="With Dr. Valeriia Zhidkova, SHU, 260625" loading="lazy">
+    </a >
+    <div class="gallery-caption">With Dr. Valeriia Zhidkova, SHU, 260625</div>
+  </div>
 </div>
